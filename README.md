@@ -1,6 +1,6 @@
 # Aero TV — обновления
 
-Официальные подписанные APK лаунчера Aero TV для Android TV 8.0+.
+Официальные подписанные APK лаунчера Aero TV для Android TV 7.1+.
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
