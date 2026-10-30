@@ -7,6 +7,18 @@
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
+## Aero TV 1.32 — 30 октября 2026
+
+[Скачать APK 1.32](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.32/AeroTV-1.32.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.32) · [Как сделать Aero основным лаунчером](DEFAULT-HOME.md)
+
+- Русский и английский интерфейс. Переключение: **Настройки → Оформление → Язык → Ru / Eng**. Выбор сохраняется после перезапуска.
+- Новый режим **«Перехват кнопки Home»** через специальные возможности Android. Позволяет возвращаться в Aero, когда ТВ оставляет штатный лаунчер. Для этого режима root и ADB не нужны.
+- Состояние службы видно в настройках; на Xiaomi предусмотрен переход через общие настройки ТВ.
+- Служба не запрашивает чтение содержимого окон. Back, громкость и мультимедийные кнопки остаются доступны; долгое нажатие Home также перехватывается.
+
+Устанавливайте обновление поверх прежней версии с сохранением настроек.
+Работа режима Home зависит от прошивки и других служб переназначения кнопок.
+
 ## Aero TV 1.30 — 29 октября 2026
 
 [Скачать APK 1.30](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.30/AeroTV-1.30.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.30)
