@@ -7,6 +7,18 @@
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
+## Aero TV 1.37 — 12 ноября 2026
+
+[Скачать APK 1.37](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.37/AeroTV-1.37.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.37)
+
+- **Собственные обои** из памяти телевизора или USB: **Настройки → Оформление → Обои → Выбрать своё изображение…**
+- JPG, PNG и WebP до 32 МБ. Фотография заполняет экран с обрезкой по центру и учётом поворота.
+- Обои работают во всех восьми темах и сохраняются после перезапуска и отключения флешки: Aero хранит свою копию.
+- Встроенный фон можно вернуть через меню «Обои». Отмена выбора или ошибка чтения сохраняют прежнее изображение.
+
+Нужен системный выбор файлов или совместимый файловый менеджер. Доступность USB зависит от прошивки и файлового менеджера.
+Обновляйте поверх установленного Aero без удаления приложения — избранное и настройки сохраняются.
+
 ## Aero TV 1.36 — 10 ноября 2026
 
 [Скачать APK 1.36](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.36/AeroTV-1.36.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.36)
