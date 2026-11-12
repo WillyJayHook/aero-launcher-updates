@@ -7,6 +7,34 @@
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
+## Aero TV 1.39 · 2026-11-13
+
+Русский
+Aero TV 1.39: язык ТВ автоматически, ручной выбор сохраняется. Погода по городу или координатам во всём мире. Выбор обоев ТВ/USB на Android 6–12, улучшено обнаружение Lampa, помощь для Home на Android 13+. Обновление: Настройки → Обновить Aero.
+
+English
+Aero TV 1.39 follows your TV language and keeps manual choices. Worldwide weather by city or coordinates. TV/USB wallpaper picker on Android 6–12, better Lampa discovery and Home setup help on Android 13+. Update in Settings → Update Aero.
+
+简体中文
+Aero TV 1.39 默认跟随电视语言，保留手动选择。可按城市或坐标设置全球天气。Android 6–12 新增电视/USB 壁纸选择，改进 Lampa 识别，并为 Android 13 及更新版本提供 Home 设置帮助。 也可在“设置 → 更新 Aero”中升级。
+
+한국어
+Aero TV 1.39는 TV 언어를 자동으로 따르고 수동 선택을 유지합니다. 도시나 좌표로 전 세계 날씨를 설정하세요. Android 6–12 TV/USB 배경화면 선택, Lampa 감지 개선, Android 13 이상 Home 설정 도움말을 추가했습니다. 설정 → Aero 업데이트에서도 업데이트할 수 있습니다.
+
+日本語
+Aero TV 1.39 はテレビの言語に自動対応し、手動の選択も保持します。都市や座標で世界中の天気を設定できます。Android 6–12 のテレビ/USB 壁紙選択、Lampa の検出改善、Android 13 以降の Home 設定ヘルプを追加。 設定 → Aero を更新からも更新できます。
+
+Español
+Aero TV 1.39 sigue el idioma del TV y conserva tu elección manual. Tiempo mundial por ciudad o coordenadas. Fondos del TV/USB en Android 6–12, mejor detección de Lampa y ayuda para Home en Android 13+. Actualiza desde Ajustes → Actualizar Aero.
+
+Deutsch
+Aero TV 1.39 folgt der TV-Sprache und behält deine manuelle Auswahl. Wetter weltweit per Stadt oder Koordinaten. TV-/USB-Hintergründe auf Android 6–12, bessere Lampa-Erkennung und Home-Hilfe ab Android 13. Update über Einstellungen → Aero aktualisieren.
+
+Français
+Aero TV 1.39 suit la langue du TV et conserve votre choix manuel. Météo mondiale par ville ou coordonnées. Fonds TV/USB sous Android 6–12, meilleure détection de Lampa et aide Home dès Android 13. Mise à jour dans Paramètres → Mettre à jour Aero.
+
+[APK 1.39](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.39/AeroTV-1.39.apk) · [Release](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.39) · [Language / weather](LANGUAGE-WEATHER-1.39.txt) · [FAQ](FAQ-1.39.txt)
+
 ## Aero TV 1.38 — 12 ноября 2026
 
 [Скачать APK 1.38](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.38/AeroTV-1.38.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.38)

@@ -1,0 +1,100 @@
+Aero TV 1.39 — исправления по отзывам
+Обои: Настройки → Оформление → Обои → Выбрать своё изображение…. На Android 6–12 разреши чтение файлов и выбери JPG/PNG/WebP пультом. Aero сохраняет копию. Системный выбор остаётся доступен.
+Полка: выбор приложения обнаруживает варианты Lampa по названию и пакету. Точный переход используется только при известном контракте; иначе выполняется объявленный приложением поиск или запуск с подсказкой искать вручную. Рабочий системный обработчик сохраняется.
+Home: Настройки → Лаунчер по умолчанию → Не включается служба Home?
+Android 13 и новее могут блокировать специальные возможности для APK, установленных из файла. Это ограничение Android, а не выключатель Aero.
+
+Сначала попробуй включить «Aero · кнопка Home» в специальных возможностях. Если Android покажет «Ограниченная настройка», открой сведения о приложении Aero TV → ⋮ → «Разрешить ограниченные настройки». Затем вернись и включи службу. Названия зависят от прошивки.
+
+Если на ТВ нет этого пункта, с подключённого компьютера можно выполнить команду ADB ниже, затем включить службу вручную. Команда сама службу не включает.
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — user feedback fixes
+Wallpapers: Settings → Appearance → Wallpapers → Choose your own image…. On Android 6–12, grant file access and choose a JPG/PNG/WebP using the remote. Aero saves a copy. The system picker remains available.
+Polka: the app picker detects Lampa variants by label and package. Exact card routing requires a known contract; otherwise a declared search or app launch is used, with a manual-search hint. Working Android defaults are preserved.
+Home: Settings → Default home app → Cannot enable the Home service?
+Android 13 and later may block accessibility for apps installed from an APK file. Android controls this restriction.
+
+First try enabling “Aero · Home button” in accessibility settings. If Android shows “Restricted setting”, open Aero TV’s app info → ⋮ → “Allow restricted settings”. Then return and enable the service. Names vary by firmware.
+
+If your TV has no such option, run the ADB command below from a connected computer, then enable the service manually. The command does not enable the service itself.
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — 用户反馈修复
+壁纸：设置 → 外观 → 壁纸 → 选择自己的图片…。在 Android 6–12 上允许读取文件，然后用遥控器选择 JPG/PNG/WebP。Aero 会保存副本，系统选择器仍可使用。
+Polka：通过名称和包名识别 Lampa 版本。仅在接口明确时打开精确卡片，否则使用应用声明的搜索或启动入口，并提示手动搜索。保留可用的 Android 默认处理方式。
+Home：设置 → 默认主屏幕应用 → 无法启用 Home 服务？
+Android 13 及更新版本可能会阻止通过 APK 文件安装的应用使用无障碍服务。此限制由 Android 控制。
+
+先尝试在无障碍设置中启用“Aero · Home 按钮”。如果 Android 显示“受限设置”，请打开 Aero TV 应用信息 → ⋮ →“允许受限设置”，然后返回并启用服务。名称因固件而异。
+
+如果电视没有此选项，可在已连接的电脑上运行下方 ADB 命令，然后手动启用服务。命令本身不会启用服务。
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — 사용자 의견 반영
+배경화면: 설정 → 모양 → 배경화면 → 내 이미지 선택…. Android 6–12에서 파일 읽기를 허용하고 리모컨으로 JPG/PNG/WebP를 선택하세요. Aero가 복사본을 저장하며 시스템 선택기도 유지됩니다.
+Polka: 이름과 패키지로 Lampa 변형 앱을 감지합니다. 확인된 방식으로만 정확한 카드를 열고, 그 외에는 앱의 검색 또는 실행 기능과 수동 검색 안내를 사용합니다. 작동하는 Android 기본 연결은 유지됩니다.
+Home: 설정 → 기본 홈 앱 → Home 서비스를 켤 수 없나요?
+Android 13 이상에서는 APK 파일로 설치한 앱의 접근성 서비스가 차단될 수 있습니다. 이 제한은 Android가 관리합니다.
+
+먼저 접근성 설정에서 “Aero · Home 버튼”을 켜 보세요. Android에 “제한된 설정”이 표시되면 Aero TV 앱 정보 → ⋮ → “제한된 설정 허용”을 여세요. 그런 다음 돌아와 서비스를 켜세요. 이름은 펌웨어에 따라 다릅니다.
+
+TV에 해당 항목이 없으면 연결된 컴퓨터에서 아래 ADB 명령을 실행한 뒤 서비스를 직접 켜세요. 명령 자체가 서비스를 켜지는 않습니다.
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — ユーザーの声に基づく修正
+壁紙：設定 → 外観 → 壁紙 → 自分の画像を選択…。Android 6–12 で読み取りを許可し、リモコンで JPG/PNG/WebP を選択します。Aero がコピーを保存し、システムでの選択も利用できます。
+Polka：名前とパッケージで Lampa の派生版を検出します。確認済みの仕様でのみ正確なカードを開き、それ以外はアプリの検索や起動と手動検索の案内を使用します。動作する Android の既定の関連付けは維持します。
+Home：設定 → 既定のホームアプリ → Home サービスを有効にできない場合。
+Android 13 以降では、APK ファイルからインストールしたアプリのユーザー補助サービスが制限される場合があります。この制限は Android が管理します。
+
+まずユーザー補助設定で「Aero · Home ボタン」を有効にしてください。「制限付き設定」が表示されたら、Aero TV のアプリ情報 → ⋮ →「制限付き設定を許可」を開き、戻ってサービスを有効にします。名称は端末によって異なります。
+
+テレビにこの項目がない場合は、接続したパソコンで下の ADB コマンドを実行し、手動でサービスを有効にしてください。コマンド自体はサービスを有効にしません。
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — correcciones según vuestros comentarios
+Fondos: Ajustes → Apariencia → Fondos → Elegir tu propia imagen…. En Android 6–12, permite leer archivos y elige un JPG/PNG/WebP con el mando. Aero guarda una copia. El selector del sistema sigue disponible.
+Polka: detecta variantes de Lampa por nombre y paquete. Solo abre la ficha exacta con una interfaz conocida; en otros casos usa la búsqueda declarada o abre la app con una indicación de búsqueda manual. Conserva las opciones predeterminadas de Android que funcionan.
+Home: Ajustes → App de inicio predeterminada → ¿No puedes activar el servicio Home?
+Android 13 y posteriores pueden bloquear la accesibilidad de las apps instaladas desde un archivo APK. Android controla esta restricción.
+
+Primero intenta activar «Aero · Botón Home» en accesibilidad. Si Android muestra «Ajuste restringido», abre la información de Aero TV → ⋮ → «Permitir ajustes restringidos». Después vuelve y activa el servicio. Los nombres dependen del sistema.
+
+Si tu TV no tiene esa opción, ejecuta el comando ADB de abajo desde un ordenador conectado y activa el servicio manualmente. El comando no activa el servicio por sí solo.
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — Korrekturen nach Nutzerfeedback
+Hintergründe: Einstellungen → Darstellung → Hintergründe → Eigenes Bild wählen…. Erlaube unter Android 6–12 den Dateizugriff und wähle ein JPG/PNG/WebP per Fernbedienung. Aero speichert eine Kopie. Die Systemauswahl bleibt verfügbar.
+Polka: erkennt Lampa-Varianten anhand von Name und Paket. Exakte Karten werden nur über bekannte Schnittstellen geöffnet. Sonst wird die deklarierte Suche oder die App mit Hinweis zur manuellen Suche geöffnet. Funktionierende Android-Standardzuordnungen bleiben erhalten.
+Home: Einstellungen → Standard-Startbildschirm → Home-Dienst lässt sich nicht aktivieren?
+Android 13 und neuer können Bedienungshilfen für Apps aus APK-Dateien blockieren. Android verwaltet diese Einschränkung.
+
+Versuche zuerst, „Aero · Home-Taste“ in den Bedienungshilfen zu aktivieren. Bei „Eingeschränkte Einstellung“ öffne die App-Info von Aero TV → ⋮ → „Eingeschränkte Einstellungen zulassen“. Aktiviere anschließend den Dienst. Die Namen hängen von der Firmware ab.
+
+Fehlt die Option auf deinem TV, führe den ADB-Befehl unten an einem verbundenen Computer aus und aktiviere den Dienst manuell. Der Befehl aktiviert den Dienst nicht selbst.
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Aero TV 1.39 — corrections selon vos retours
+Fonds : Paramètres → Apparence → Fonds d’écran → Choisir votre image…. Sous Android 6–12, autorisez la lecture et choisissez un JPG/PNG/WebP avec la télécommande. Aero conserve une copie. Le sélecteur du système reste disponible.
+Polka : détecte les variantes de Lampa par nom et paquet. Les fiches exactes utilisent uniquement une interface connue ; sinon l’application lance sa recherche déclarée ou s’ouvre avec une indication de recherche manuelle. Les associations Android fonctionnelles sont conservées.
+Home : Paramètres → Application d’accueil par défaut → Impossible d’activer le service Home ?
+Android 13 et versions ultérieures peuvent bloquer l’accessibilité des applications installées via un fichier APK. Cette restriction est gérée par Android.
+
+Essayez d’abord d’activer « Aero · Bouton Home » dans l’accessibilité. Si Android affiche « Paramètre restreint », ouvrez les infos d’Aero TV → ⋮ → « Autoriser les paramètres restreints », puis revenez activer le service. Les noms varient selon le système.
+
+Si votre TV n’a pas cette option, exécutez la commande ADB ci-dessous depuis un ordinateur connecté, puis activez le service manuellement. La commande seule n’active pas le service.
+
+adb shell appops set tv.aero.home ACCESS_RESTRICTED_SETTINGS allow
+
+Sources / Источники
+https://support.google.com/android/answer/12623953
+https://github.com/lampa-app/LAMPA/blob/main/app/src/main/AndroidManifest.xml
+https://developer.android.com/training/data-storage/shared/media

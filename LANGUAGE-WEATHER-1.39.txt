@@ -1,0 +1,33 @@
+Aero TV 1.39 — language and weather / язык и погода
+
+Русский
+Настройки → Оформление → Язык → Язык телевизора (авто). Это режим по умолчанию, пока язык не выбран вручную. Поддерживаются ru/en/zh/ko/ja/es/de/fr; для остальных языков ТВ используется английский. Упрощённый китайский используется для всех китайских локалей. Ручной выбор сохраняется при обновлении и смене языка ТВ.
+В погоде выберите страну или «Весь мир» и найдите город. Если названия нет в каталоге, введите широту и долготу: 55.75, 37.62 или 55,75; 37,62. Широта от −90 до 90, долгота от −180 до 180. Нажмите «Найти», затем OK на результате. Координаты работают независимо от фильтра страны; время такого прогноза отображается в UTC. Для прогноза нужен интернет. Доступность названий зависит от каталога сервиса. На Android 6 старое хранилище сертификатов может мешать HTTPS-погоде.
+
+English
+Settings → Appearance → Language → TV language (automatic). This is the default until you choose a language manually. Supported: ru/en/zh/ko/ja/es/de/fr; other TV languages fall back to English. All Chinese locales use simplified Chinese. Manual choices survive updates and TV language changes.
+In Weather, choose a country or Worldwide and find a city. If the name is missing from the catalogue, enter latitude and longitude: 55.75, 37.62 or 55,75; 37,62. Latitude: −90 to 90; longitude: −180 to 180. Choose Search, then OK on the result. Coordinates ignore the country filter; their forecast times use UTC. Forecasts require internet. Available city names depend on the service catalogue. On Android 6, an old certificate store can prevent HTTPS weather access.
+
+简体中文
+设置 → 外观 → 语言 → 跟随电视语言（自动）。手动选择语言前，默认使用此模式。支持 ru/en/zh/ko/ja/es/de/fr；其他电视语言回退为英语。所有中文地区设置均使用简体中文。手动选择会在更新和更改电视语言后保留。
+在天气中选择国家或“全球”，然后搜索城市。如果目录中没有该名称，可输入纬度和经度：55.75, 37.62 或 55,75; 37,62。纬度范围为 −90 至 90，经度为 −180 至 180。选择搜索，再在结果上按 OK。坐标不受国家筛选影响；其预报时间以 UTC 显示。预报需要联网。可搜索的城市名称取决于服务目录。 Android 6 的旧证书存储可能导致无法通过 HTTPS 获取天气。
+
+한국어
+설정 → 모양 → 언어 → TV 언어 사용(자동). 언어를 직접 선택하기 전에는 이 모드가 기본입니다. ru/en/zh/ko/ja/es/de/fr를 지원하며, 다른 TV 언어에는 영어를 사용합니다. 중국어 로캘은 모두 간체 중국어를 사용합니다. 수동 선택은 업데이트나 TV 언어 변경 후에도 유지됩니다.
+날씨에서 국가 또는 전 세계를 선택하고 도시를 검색하세요. 목록에 이름이 없으면 위도와 경도를 입력하세요: 55.75, 37.62 또는 55,75; 37,62. 위도는 −90~90, 경도는 −180~180입니다. 검색 후 결과에서 OK를 누르세요. 좌표는 국가 필터와 관계없이 적용되며, 해당 예보 시간은 UTC로 표시됩니다. 예보에는 인터넷이 필요합니다. 검색 가능한 도시 이름은 서비스 목록에 따라 다릅니다. Android 6에서는 오래된 인증서 저장소로 인해 HTTPS 날씨 연결이 안 될 수 있습니다.
+
+日本語
+設定 → 外観 → 言語 → テレビの言語（自動）。手動で言語を選ぶまでは、このモードが既定です。ru/en/zh/ko/ja/es/de/fr に対応し、その他のテレビ言語では英語を使います。中国語の地域設定ではすべて簡体字を使います。手動の選択は更新やテレビ言語の変更後も保持されます。
+天気で国または「世界中」を選び、都市を検索します。地名が一覧にない場合は緯度と経度を入力します：55.75, 37.62 または 55,75; 37,62。緯度は −90～90、経度は −180～180 です。検索し、結果で OK を押します。座標は国の絞り込みに関係なく使われ、その予報時刻は UTC 表示になります。予報にはインターネット接続が必要です。検索できる地名はサービスの一覧に依存します。 Android 6 では古い証明書ストアにより HTTPS の天気取得ができない場合があります。
+
+Español
+Ajustes → Apariencia → Idioma → Idioma del televisor (automático). Es el modo predeterminado hasta que elijas un idioma manualmente. Compatibles: ru/en/zh/ko/ja/es/de/fr; los demás idiomas del TV usan inglés. Todas las variantes de chino usan chino simplificado. Tu elección manual se conserva al actualizar o cambiar el idioma del TV.
+En Tiempo, elige un país o Todo el mundo y busca una ciudad. Si el nombre no está en el catálogo, introduce latitud y longitud: 55.75, 37.62 o 55,75; 37,62. Latitud: de −90 a 90; longitud: de −180 a 180. Pulsa Buscar y luego OK sobre el resultado. Las coordenadas ignoran el filtro de país; las horas del pronóstico se muestran en UTC. El pronóstico requiere internet. Los nombres disponibles dependen del catálogo del servicio. En Android 6, un almacén de certificados antiguo puede impedir el acceso al tiempo por HTTPS.
+
+Deutsch
+Einstellungen → Darstellung → Sprache → TV-Sprache (automatisch). Dieser Modus gilt, bis du eine Sprache manuell wählst. Unterstützt: ru/en/zh/ko/ja/es/de/fr; bei anderen TV-Sprachen wird Englisch verwendet. Alle chinesischen Gebietsschemas verwenden vereinfachtes Chinesisch. Deine manuelle Auswahl bleibt nach Updates und Änderungen der TV-Sprache erhalten.
+Wähle im Wetter ein Land oder Weltweit und suche eine Stadt. Fehlt der Name im Verzeichnis, gib Breiten- und Längengrad ein: 55.75, 37.62 oder 55,75; 37,62. Breitengrad: −90 bis 90; Längengrad: −180 bis 180. Wähle Suchen und drücke beim Ergebnis OK. Koordinaten gelten unabhängig vom Länderfilter; die Vorhersagezeiten werden dann in UTC angezeigt. Die Vorhersage benötigt Internet. Verfügbare Ortsnamen hängen vom Verzeichnis des Dienstes ab. Auf Android 6 kann ein alter Zertifikatsspeicher den HTTPS-Wetterzugriff verhindern.
+
+Français
+Paramètres → Apparence → Langue → Langue du téléviseur (automatique). Ce mode est utilisé jusqu’au choix manuel d’une langue. Langues prises en charge : ru/en/zh/ko/ja/es/de/fr ; les autres langues du téléviseur utilisent l’anglais. Toutes les variantes chinoises utilisent le chinois simplifié. Votre choix manuel est conservé après une mise à jour ou un changement de langue du téléviseur.
+Dans Météo, choisissez un pays ou Monde entier et recherchez une ville. Si le nom manque au catalogue, saisissez latitude et longitude : 55.75, 37.62 ou 55,75; 37,62. Latitude : de −90 à 90 ; longitude : de −180 à 180. Choisissez Rechercher, puis OK sur le résultat. Les coordonnées ignorent le filtre de pays ; les heures des prévisions sont alors en UTC. Les prévisions nécessitent internet. Les noms disponibles dépendent du catalogue du service. Sous Android 6, un ancien magasin de certificats peut empêcher l’accès à la météo par HTTPS.
