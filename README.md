@@ -7,6 +7,22 @@
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
+## Aero TV 1.38 — 12 ноября 2026
+
+[Скачать APK 1.38](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.38/AeroTV-1.38.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.38)
+
+- **Восемь языков интерфейса:** русский, English, 简体中文 (упрощённый китайский), 한국어, 日本語, Español, Deutsch и Français.
+- **Настройки → Оформление → Язык:** OK открывает список с родными названиями, ←/→ переключают языки по кругу. Выбор сохраняется после перезапуска.
+- Переведены меню, диалоги, погода, обновления, HDMI, плееры, Полка и обои: по 493 группы ресурсов на язык.
+- Даты, названия стран и язык поиска городов следуют выбранному языку Aero. Названия фильмов, пользовательские подписи и системный язык телевизора сохраняются.
+
+Устанавливайте поверх прежней версии без удаления приложения — избранное, оформление, HDMI, город и подключение Полки сохраняются.
+
+### Aero TV 1.38 — Eight languages
+
+Russian, English, Simplified Chinese, Korean, Japanese, Spanish, German and French.
+**Settings → Appearance → Language:** press OK for the native-name list, or left/right to cycle. The choice survives restarts; dates, country names and city-search language follow it. Install over your existing version to keep your settings.
+
 ## Aero TV 1.37 — 12 ноября 2026
 
 [Скачать APK 1.37](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.37/AeroTV-1.37.apk) · [Описание релиза](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.37)
