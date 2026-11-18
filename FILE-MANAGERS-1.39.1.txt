@@ -1,0 +1,55 @@
+Русский
+Aero TV 1.39.1
+Выбор обоев через сторонние файловые менеджеры. Aero показывает совместимые установленные приложения и позволяет выбрать нужное.
+Настройки → Оформление → Обои → Файловый менеджер…
+Если стандартного выбора файлов нет, используйте совместимый сторонний менеджер. Он должен поддерживать выбор изображений для других приложений; обычного просмотра файлов недостаточно. На Android 6–12 также доступен встроенный просмотр памяти ТВ/USB. Для старых файловых ссылок Aero при необходимости запрашивает разрешение на чтение. Отмена выбора сохраняет прежние обои.
+Обновить можно через Настройки → Обновить Aero.
+
+English
+Aero TV 1.39.1
+Choose wallpapers through third-party file managers. Aero lists compatible installed apps so you can select the one you want.
+Settings → Appearance → Wallpaper → File manager…
+If the system picker is missing, use a compatible third-party manager. It must support choosing images for other apps; browsing files alone is not enough. Android 6–12 also retains the built-in TV/USB browser. Aero requests read permission when needed for legacy file links. Cancelling keeps your previous wallpaper.
+Update via Settings → Update Aero.
+
+简体中文
+Aero TV 1.39.1
+通过第三方文件管理器选择壁纸。Aero 会列出兼容的已安装应用，供您自行选择。
+设置 → 外观 → 壁纸 → 文件管理器…
+如果没有系统文件选择器，可使用兼容的第三方管理器。该应用必须支持为其他应用选择图片，仅能浏览文件还不够。Android 6–12 仍提供内置电视/USB 浏览器。对于旧式文件链接，Aero 会在需要时请求读取权限。取消选择会保留原壁纸。
+也可通过 设置 → 更新 Aero 升级。
+
+한국어
+Aero TV 1.39.1
+타사 파일 관리자로 배경화면을 선택하세요. Aero가 호환되는 설치된 앱 목록을 보여 주므로 원하는 앱을 고를 수 있습니다.
+설정 → 모양 → 배경화면 → 파일 관리자…
+시스템 파일 선택기가 없으면 호환되는 타사 관리자를 사용하세요. 다른 앱에 이미지를 선택해 주는 기능이 필요하며 파일 탐색만 지원해서는 부족합니다. Android 6–12에서는 내장 TV/USB 탐색기도 유지됩니다. 이전 방식의 파일 링크는 필요할 때 읽기 권한을 요청합니다. 선택을 취소하면 기존 배경화면이 유지됩니다.
+설정 → Aero 업데이트에서 업데이트할 수 있습니다.
+
+日本語
+Aero TV 1.39.1
+サードパーティーのファイルマネージャーで壁紙を選べます。Aero が対応するインストール済みアプリを一覧表示し、使うアプリを選択できます。
+設定 → 外観 → 壁紙 → ファイルマネージャー…
+システムのファイル選択機能がない場合は、対応するファイルマネージャーを使ってください。他のアプリに画像を渡す選択機能が必要で、ファイルの閲覧だけでは使えません。Android 6–12 では内蔵のテレビ/USB ブラウザーも利用できます。古い形式のファイルリンクには、必要に応じて読み取り権限を求めます。キャンセルすると元の壁紙を保持します。
+設定 → Aero を更新から更新できます。
+
+Español
+Aero TV 1.39.1
+Elige fondos con gestores de archivos de terceros. Aero muestra las aplicaciones compatibles instaladas para que elijas la que prefieras.
+Ajustes → Apariencia → Fondo de pantalla → Gestor de archivos…
+Si falta el selector del sistema, usa un gestor compatible. Debe permitir elegir imágenes para otras aplicaciones; no basta con explorar archivos. En Android 6–12 también se conserva el explorador TV/USB integrado. Aero pide permiso de lectura cuando lo necesitan los enlaces de archivo antiguos. Cancelar conserva el fondo anterior.
+Actualiza desde Ajustes → Actualizar Aero.
+
+Deutsch
+Aero TV 1.39.1
+Wähle Hintergründe über Dateimanager von Drittanbietern. Aero zeigt kompatible installierte Apps an und lässt dich die gewünschte auswählen.
+Einstellungen → Darstellung → Hintergrundbild → Dateimanager…
+Fehlt die Systemdateiauswahl, verwende einen kompatiblen Dateimanager. Er muss Bilder für andere Apps auswählen können; reines Durchsuchen reicht nicht. Auf Android 6–12 bleibt auch der integrierte TV-/USB-Browser verfügbar. Für ältere Dateilinks fragt Aero bei Bedarf nach Leserechten. Beim Abbrechen bleibt der bisherige Hintergrund erhalten.
+Update über Einstellungen → Aero aktualisieren.
+
+Français
+Aero TV 1.39.1
+Choisissez vos fonds avec des gestionnaires de fichiers tiers. Aero affiche les applications compatibles installées et vous laisse choisir celle à utiliser.
+Paramètres → Apparence → Fond d’écran → Gestionnaire de fichiers…
+Si le sélecteur système est absent, utilisez un gestionnaire compatible. Il doit permettre de choisir des images pour d’autres applications ; parcourir les fichiers ne suffit pas. Android 6–12 conserve aussi le navigateur TV/USB intégré. Aero demande la permission de lecture si un ancien lien de fichier en a besoin. Annuler conserve le fond précédent.
+Mise à jour dans Paramètres → Mettre à jour Aero.

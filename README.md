@@ -7,6 +7,34 @@
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
+## Aero TV 1.39.1 · 2026-11-18
+
+Русский
+Aero TV 1.39.1: Выбор обоев через сторонние файловые менеджеры. Aero показывает совместимые установленные приложения и позволяет выбрать нужное. Обновить можно через Настройки → Обновить Aero.
+
+English
+Aero TV 1.39.1: Choose wallpapers through third-party file managers. Aero lists compatible installed apps so you can select the one you want. Update via Settings → Update Aero.
+
+简体中文
+Aero TV 1.39.1: 通过第三方文件管理器选择壁纸。Aero 会列出兼容的已安装应用，供您自行选择。 也可通过 设置 → 更新 Aero 升级。
+
+한국어
+Aero TV 1.39.1: 타사 파일 관리자로 배경화면을 선택하세요. Aero가 호환되는 설치된 앱 목록을 보여 주므로 원하는 앱을 고를 수 있습니다. 설정 → Aero 업데이트에서 업데이트할 수 있습니다.
+
+日本語
+Aero TV 1.39.1: サードパーティーのファイルマネージャーで壁紙を選べます。Aero が対応するインストール済みアプリを一覧表示し、使うアプリを選択できます。 設定 → Aero を更新から更新できます。
+
+Español
+Aero TV 1.39.1: Elige fondos con gestores de archivos de terceros. Aero muestra las aplicaciones compatibles instaladas para que elijas la que prefieras. Actualiza desde Ajustes → Actualizar Aero.
+
+Deutsch
+Aero TV 1.39.1: Wähle Hintergründe über Dateimanager von Drittanbietern. Aero zeigt kompatible installierte Apps an und lässt dich die gewünschte auswählen. Update über Einstellungen → Aero aktualisieren.
+
+Français
+Aero TV 1.39.1: Choisissez vos fonds avec des gestionnaires de fichiers tiers. Aero affiche les applications compatibles installées et vous laisse choisir celle à utiliser. Mise à jour dans Paramètres → Mettre à jour Aero.
+
+[APK 1.39.1](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.39.1/AeroTV-1.39.1.apk) · [GitHub Releases](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.39.1) · [FILE-MANAGERS-1.39.1.txt · ru/en/zh/ko/ja/es/de/fr](FILE-MANAGERS-1.39.1.txt)
+
 ## Aero TV 1.39 · 2026-11-13
 
 Русский
