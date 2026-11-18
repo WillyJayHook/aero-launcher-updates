@@ -7,6 +7,34 @@
 
 [Скачать последнюю версию](https://github.com/WillyJayHook/aero-launcher-updates/releases/latest)
 
+## Aero TV 1.39.2 · 2026-11-18
+
+Русский
+Aero TV 1.39.2. Меньше работы при запуске и обновлении главного экрана. Лаунчер готовит только выбранный фон, загружает графику предпросмотра HDMI по запросу и экономит память при отрисовке темы macOS. Обновить можно через Настройки → Обновить Aero.
+
+English
+Aero TV 1.39.2. Less work at startup and when refreshing the home screen. The launcher prepares only the selected wallpaper, loads HDMI preview graphics on demand, and uses less memory to render the macOS theme. Update via Settings → Update Aero.
+
+简体中文
+Aero TV 1.39.2。减少启动和刷新主屏幕时的处理开销。启动器仅准备当前选中的壁纸，按需加载 HDMI 预览图形，并降低 macOS 主题的渲染内存占用。请通过 设置 → 更新 Aero 升级。
+
+한국어
+Aero TV 1.39.2. 시작 및 홈 화면 새로 고침 시 처리량을 줄였습니다. 선택한 배경화면만 준비하고, HDMI 미리보기 그래픽은 요청 시 불러오며, macOS 테마를 그릴 때 메모리를 덜 사용합니다. 설정 → Aero 업데이트에서 업데이트할 수 있습니다.
+
+日本語
+Aero TV 1.39.2。起動時とホーム画面の更新時の処理を軽減しました。選択した壁紙だけを準備し、HDMI プレビュー用の画像は必要なときに読み込みます。macOS テーマの描画に使うメモリも削減しました。設定 → Aero を更新から更新できます。
+
+Español
+Aero TV 1.39.2. Menos trabajo al iniciar y actualizar la pantalla de inicio. El lanzador prepara solo el fondo seleccionado, carga los gráficos de vista previa HDMI bajo demanda y usa menos memoria para dibujar el tema macOS. Actualiza desde Ajustes → Actualizar Aero.
+
+Deutsch
+Aero TV 1.39.2. Weniger Aufwand beim Start und beim Aktualisieren des Startbildschirms. Der Launcher bereitet nur das gewählte Hintergrundbild vor, lädt die Grafiken der HDMI-Vorschau bei Bedarf und benötigt weniger Speicher für das macOS-Design. Update über Einstellungen → Aero aktualisieren.
+
+Français
+Aero TV 1.39.2. Moins de travail au lancement et lors de l’actualisation de l’écran d’accueil. Le lanceur prépare uniquement le fond sélectionné, charge les éléments graphiques de l’aperçu HDMI à la demande et utilise moins de mémoire pour afficher le thème macOS. Mise à jour dans Paramètres → Mettre à jour Aero.
+
+[APK 1.39.2](https://github.com/WillyJayHook/aero-launcher-updates/releases/download/v1.39.2/AeroTV-1.39.2.apk) · [GitHub Releases](https://github.com/WillyJayHook/aero-launcher-updates/releases/tag/v1.39.2)
+
 ## Aero TV 1.39.1 · 2026-11-18
 
 Русский
